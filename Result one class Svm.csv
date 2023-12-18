@@ -1,0 +1,31 @@
+Indicators;Nu variable;Result after;Note;F1 score;AUC-PR;;;
+"Mean, skewness, kurtosis, rms,
+ Peak, Variance, pulse index, margin factor, waveform factor";0,01;5563;normal;0,25;0,07;;;
+;0,05;5552;normal;0,68;0,4;;;
+;0,1;5518;normal;0,84;0,41;;;
+;0,2;5473;normal;0,89;0,43;;;
+;0,5;5412;gives a lot of false signal ;0,92;0,25;;;
+;0,9;1;Totally wrong;-;-;;;
+"Min, Max, Std, Mean, Skewness, Kurtosis, 
+Rms, Peak, variance, pulse index, 
+margin factor, waveform factor";0,01;5553;normal;0,25;0,07;;;
+;0,05;5533;normal;0,79;0,4;;;
+;0,1;5498;normal;0,84;0,44;;;
+;0,2;5463;normal;0,89;0,43;;;
+;0,5;5412;gives a lot of false signal ;0,92;0,25;;;
+;0,9;1;Totally wrong;0,46;0,01;;;
+"  Std, Mean, Skewness, Kurtosis, 
+Rms, pulse index, 
+margin factor, waveform factor";0,01;No anomaly;normal;0,29;0,09;;;
+;0,05;5523;normal;0,81;0,09;;;
+;0,1;5483;normal;0,86;0,46;;;
+;0,2;5458;normal;0,9;0,44;;;
+;0,5;5427;gives a lot of false signal ;0,93;0,25;;;
+;0,9;1;Totally wrong;-;-;;;
+"Mean, std, skewness, kurtosis, rms,
+  pulse index, margin factor, waveform factor";0,01;none;normal;0,21;0,07;;;
+;0,05;5523;normal;0,79;0,07;;;
+;0,1;5513;normal;0,84;0,07;;;
+;0,2;5453;normal;0,9;0,44;;;
+;0,5;5417;gives a lot of false signal ;0,93;0,25;;;
+;0,9;1;Totally wrong;0,46;0,15;;;
